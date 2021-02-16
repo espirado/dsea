@@ -48,5 +48,5 @@ $  sudo apt install git
 
  [Git](https://git-scm.com/)
  
- [dsea](https://github.com/espirado/dsea/documents/Git and Github.pdf)
+ [dsea](https://github.com/espirado/dsea/blob/main/documents/Git%20and%20Github%20.pdf)
 
