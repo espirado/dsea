@@ -35,6 +35,10 @@ $ sudo apt update
 $ sudo apt upgrade
 $ sudo add-apt-repository ppa:git-core/ppa
 $  sudo apt install git
+$ git config --global user.name "espirado"
+$ git config --global user.email "andiespirado@gmail.com"
+
+
 
 
 
